@@ -26,3 +26,4 @@ python perform_tracker.py
 ### Pre-trained Model
 
 Region-based FCN Model: https://drive.google.com/file/d/1sLGZ95gMVvpOl2wzW8yj99FkLETMt7W1/view?usp=sharing
+MOT 2016 dataset : https://motchallenge.net/data/MOT16/
