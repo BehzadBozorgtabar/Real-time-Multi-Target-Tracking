@@ -1,7 +1,7 @@
 # Real-time-Multi-Target-Tracking
 
 In this work, a Real-time Multi-Target Tracking using region-based fully convolutional neural network has been presented.
-For the target appearance features, the pre-trained Resnet-18 model is used, but any good model (preferably trained on the pedestrian detection) can be used.
+For the target appearance features, the pre-trained Resnet-18 model is used, but any good model (preferably trained on people detection) can be used.
 ## Usage
 
 Download MOT16 dataset and pre-trained models from the following links. Copy the model in `data`, then build and run the code. 
